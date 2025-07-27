@@ -7,11 +7,10 @@ This interactive Streamlit app allows users to dynamically explore and visualise
 
 - **Live stock data input** via ticker symbol
 - **Black-Scholes pricing** for call and put options
-- 🎛Customizable input parameters: stock price, strike, time to maturity, volatility, risk-free rate
+- Customizable input parameters: stock price, strike, time to maturity, volatility, risk-free rate
 - **Interactive heatmap**:
   - Choose **any two parameters** to plot option price sensitivity
   - Optional red/green **profit/loss visualisation** if purchase prices are entered
-- Built using **Python**, **Streamlit**, **YFinance**, **Numpy**, **Seaborn**, **Matplotlib**, and more
 
 ---
 
