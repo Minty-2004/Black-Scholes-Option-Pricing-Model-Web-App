@@ -51,7 +51,7 @@ This interactive Streamlit app allows users to dynamically explore and visualise
 
 ## Demo Web App
 
-> Coming soon — 
+> [Click here!](https://bscholes-heatmap-minty.streamlit.app/)
 
 ---
 
